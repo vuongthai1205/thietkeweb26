@@ -4429,7 +4429,7 @@ const Ec = { name: "ri-facebook-fill", render: wc },
             { href: "#", title: "Whitepaper" },
             { href: "https://t.me/hokkaidoercportal", title: "Community" },
             {
-                href: "https://bscscan.com/address/0xbFdfa2143d1aa3EFEA094E5177295df9E77202a8#code",
+                href: "https://etherscan.io/",
                 title: "Smart Contract",
                 attributes: { target: "_blank" },
             },
@@ -4900,7 +4900,7 @@ const Bc = { name: "material-symbols-check-small-rounded", render: Dc },
         {
             class: "font-liberation text-#feae31 text-center text-3xl font-bold xl:text-5xl",
         },
-        " Total Supply: 100.000.000.000.000.000 ",
+        " Total Supply: 100.000.000.000 ",
         -1
     ),
     cu = E(
@@ -5063,10 +5063,10 @@ const fu = Yn(ou, [["render", uu]]),
         setup(e) {
             const t = [
                 [Eu, "100% coin memes"],
-                [Cu, "KYC, Audit, and Safu"],
+                [Cu, "Safu contract"],
                 [Au, "Renounced ownership"],
                 [Tu, "Automatic token burning mechanism according to volume"],
-                [$u, "Attractive reflection mechanism"],
+                [$u, "0/0 Tax"],
             ];
             return (n, s) => {
                 const r = At;
