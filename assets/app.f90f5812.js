@@ -4488,7 +4488,6 @@ const Ec = { name: "ri-facebook-fill", render: wc },
     Lc = E(
         "p",
         { class: "text-center" },
-        " Contact: admin@hokkaidoinu.io ",
         -1
     ),
     Mc = { class: "-mt-4 -ml-4 flex flex-wrap items-center justify-center" },
