@@ -4729,11 +4729,9 @@ const Bc = { name: "material-symbols-check-small-rounded", render: Dc },
                         isCompleted: !1,
                         tasks: [
                             { name: "Website Launch", isCompleted: !0 },
-                            { name: "KYC - AUDIT - SAFU", isCompleted: !0 },
                             { name: "2,000 Telegram Members", isCompleted: !1 },
                             { name: "Marketing Campaign", isCompleted: !1 },
-                            { name: "Presale on Pinksale", isCompleted: !1 },
-                            { name: "Lising Pancakeswap", isCompleted: !1 },
+                            { name: "Listing Uniswap", isCompleted: !1 },
                         ],
                     },
                     {
@@ -4959,7 +4957,7 @@ const fu = Yn(ou, [["render", uu]]),
                 [
                     mu,
                     "Hokkaido Inu a genuine,",
-                    "Brand new meme coin without VCs, turn small meme coin into your big dream. There's no greeting I can't do. We will create Hokkaido Inu applications such as payment inapp, games, football bets, and betting. We are an honest community project that has renounced ownership and been audited and kyc-ed, clear safety.",
+                    "Brand new meme coin without VCs, turn small meme coin into your big dream. There's no greeting I can't do. We will create Hokkaido Inu applications such as payment inapp, games, football bets, and betting. We are an honest community project that has renounced ownership.",
                 ],
             ];
             return (n, s) => {
