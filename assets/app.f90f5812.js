@@ -4437,9 +4437,9 @@ const Ec = { name: "ri-facebook-fill", render: wc },
         ],
         socials: [
             { href: "https://t.me/hokkaidoercportal", icon: ac },
-            { href: "https://t.me/hokkaidoercportal", icon: Ec },
-            { href: "https://twitter.com/hokkaidoinuu", icon: pc },
-            { href: "https://t.me/hokkaidoercportal", icon: bc },
+            { href: "#", icon: Ec },
+            { href: "https://twitter.com/Hokkaido_ERC20", icon: pc },
+            { href: "#", icon: bc },
         ],
     },
     Cc = { class: "py-16" },
@@ -4518,33 +4518,7 @@ const Ec = { name: "ri-facebook-fill", render: wc },
                             E("footer", Cc, [
                                 V(r, null, {
                                     default: Se(() => [
-                                        E("div", Ac, [
-                                            E("div", Tc, [
-                                                $c,
-                                                E("div", Sc, [
-                                                    (Y(),
-                                                    J(
-                                                        G,
-                                                        null,
-                                                        ze(t, (l, o) =>
-                                                            E(
-                                                                "a",
-                                                                {
-                                                                    key: o,
-                                                                    href: l[0],
-                                                                    class: "bg-#feae31 ml-6 mt-6 rounded-xl py-2 px-3.5 font-bold uppercase",
-                                                                },
-                                                                et(l[1]),
-                                                                9,
-                                                                Oc
-                                                            )
-                                                        ),
-                                                        64
-                                                    )),
-                                                ]),
-                                            ]),
-                                            Fc,
-                                        ]),
+                                        
                                         E("div", Pc, [
                                             kc,
                                             Lc,
